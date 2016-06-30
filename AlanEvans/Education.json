@@ -1,0 +1,16 @@
+{
+	"Degree": {
+		"Institution": "University of Wales, Swansea",
+		"Years": {
+			"From": 1998,
+			"To": 2001
+		},
+		"Credential": "Bachelor of Science (Honours)",
+		"Major": "Computer Science",
+		"Grade": "2:1",
+		"Canadian Equivalency": {
+			"Credential": "Bachelor's degree (4years)",
+			"Assessing Authority": "WES"
+		}
+	}
+}
