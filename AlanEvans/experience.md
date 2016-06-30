@@ -27,9 +27,9 @@
 - Created XSL scripts to create animated graphs from user data for a high street Bank’s head office
 - Provided support to the designers and worked closely with them to design more complicated content, such as an interactive touch screen system for the NHS, and a countdown to the release of the game “Gears of War” which was show in the Virgin Window in Piccadilly Circus
 - Designed and implemented a content packaging and delivery system to package all of the required files for a set of content together with XML instructions on how to install the content
-Newman & Spurr Consultancy Ltd. (NSC), Camberley, UK
-Analyst Programmer
-August 2001 - August 2002
+
+#Newman & Spurr Consultancy Ltd. (NSC), Camberley, UK
+##Analyst Programmer - August 2001 - August 2002
 - ISO 9001 experience
 - Received 6 months Delphi 6 training whilst working on internal database projects using the ADO components to connect to Microsoft SQL Server
 - Received external UML design training and was part of a three person design team for a large project
