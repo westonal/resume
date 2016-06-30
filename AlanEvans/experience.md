@@ -1,4 +1,4 @@
-#Burrows, [Shenfield, UK](http://tinyurl.com/burrowsloc)
+#[Burrows](http://burrows.info), [Shenfield, UK](http://tinyurl.com/burrowsloc)
 
 ##Application Developer - November 2013 - Present
 - Android application development. Car configuration and e-brochure apps targeting both potential customers and brand fans. Including 360 degree spins of the car, changing colours, wheels and body shape as well as nicely animated internationalized brochure content; images and text
@@ -6,9 +6,9 @@
 - Android Test Driven Development with Robolectric and Mockito
 - Configured Android continuous integration with Jenkins hosted in Azure
 - C#, ASP.net, Azure backend service development, TDD using NCrunch, CI with TeamCity
-Hellenic Systems Ltd., South Woodham Ferrers, UK
-Software Architect/Development Manager/Software Developer
- June 2003 - April 2006, March 2009 - November 2013
+
+#Hellenic Systems Ltd., South Woodham Ferrers, UK
+##Software Architect/Development Manager/Software Developer - June 2003 - April 2006, March 2009 - November 2013
 - Development Manager after March 2009: Introduced Agile methodologies such as Scrum, Pair Programming, TDD and Continuous Integration with CruiseControl.NET
 - Software Architect after September 2011:  In addition to continuing to develop, I was in charge of controlling the overall direction of the software department, ensuring standards are met and that the system is moving forward towards a more scalable and supportable model
 - WCF, WPF, Silverlight, and RIA services experience
