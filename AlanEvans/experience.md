@@ -40,8 +40,8 @@
 #Other experience
 I pride myself on not being tied to a particular set of language/technology preferences. Where my employment does not currently require a technology I have an interest in I will use my own time to learn that language/technology. This often has benefits for my employer.
 
-#Stack Overflow
-I am a keen user of [StackOverflow.com](http://stackoverflow.com) where I am in the top 0.46% of users this year with over 27,000 reputation: [stackoverflow.com/users/360211/weston](http://stackoverflow.com/users/360211/weston)
+# ![SO](http://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a) stack**overflow**
+I am a keen user where I am in the top 0.46% of users this year with over 27,000 reputation: [stackoverflow.com/users/360211/weston](http://stackoverflow.com/users/360211/weston)
 
 #Android
 I have personally developed a number of [apps](http://play.google.com/store/apps/developer?id=eawapps) on the Android mobile platform using Java/OpenGL and C/C++. I have experienced some significant success with over 2 million downloads across 3 apps/games in the first 10 months. And most recently I have developed apps for Sony and Samsung SmartWatches.
